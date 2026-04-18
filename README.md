@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Tony — student at two independent degree propgrams BSc Information and Communication Technology at KTH and BSc Business and Economics at the Stockholm School of Economics. I enjoy building practical software, reasoning from data, and shipping things that combine engineering with measurable commercial outcomes.
+I’m Tony — double degree student at KTH and Stockholm School of Economics. I enjoy building practical software, reasoning from data, and shipping things that combine engineering with measurable commercial outcomes.
 
 ### What I’m working on
 
